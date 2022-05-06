@@ -1,0 +1,11 @@
+MIDTERM EXAM
+Bautista, Ken Joshua S.
+what is the difference of state and props.
+
+state
+without state the react application is just a static template and also by the help of state it
+makes the application interactive. States are mutable which means it can still be 
+change unlike props that it can't be changed, State is an internal and controlled by the component itself
+while the props is an external and controlled by whatever renders the component and another info state
+changes can be asynchronous and can be modified using the useStates while the props are read-only and cannot be modified
+
